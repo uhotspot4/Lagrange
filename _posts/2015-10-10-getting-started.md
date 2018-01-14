@@ -205,6 +205,7 @@ All social media icons are courtesy of [Font Awesome](http://fontawesome.io/). Y
 ### MathJax
 
 Lagrange comes out of the box with [MathJax](https://www.mathjax.org/), which allows you to display mathematical equations in your posts through the use of [LaTeX](http://www.andy-roberts.net/writing/latex/mathematics_1).
+$\theta \alpha$
 
 ### Syntax Highlighting
 
