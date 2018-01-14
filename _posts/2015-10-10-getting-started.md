@@ -217,11 +217,11 @@ As always, Jekyll offers support for GitHub Flavored Markdown, which allows you 
 
 ### test
 
-'''
+```java
 public static void main(String args[]) {
 
 }
-'''
+```
 
 ## Everything Else
 
